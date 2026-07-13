@@ -4,7 +4,7 @@
 
 
  ## Sobre mí
- - Soy un estudiante de CS de la Universidad de la Habana, Cuba, actualmente en segundo año de la carrera.
+ - Estudiante de CS de la Universidad de la Habana, Cuba.
  - Comencé programando en C# pero he usado también Python y Assembly.
  - He trabajado con Django, LaTeX, Jupyter Notebooks y Unity.
  - Actualmente estoy trabajando en un bot de Telegram usando Python.
