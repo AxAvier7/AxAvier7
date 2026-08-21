@@ -1,18 +1,16 @@
-
 # Bienvenido, soy Adrián!
 
+## Sobre mí
+- Estudiante de CS de la Universidad de la Habana, Cuba.
+- Comencé programando en C# pero he usado también Python y Assembly.
+- He trabajado con Django, LaTeX, Jupyter Notebooks y Unity.
+- Actualmente estoy trabajando en un bot de Telegram usando Python.
 
-
- ## Sobre mí
- - Estudiante de CS de la Universidad de la Habana, Cuba.
- - Comencé programando en C# pero he usado también Python y Assembly.
- - He trabajado con Django, LaTeX, Jupyter Notebooks y Unity.
- - Actualmente estoy trabajando en un bot de Telegram usando Python.
-
- 
 ## Estadísticas
-[![GitHub Streak](https://streak-stats.demolab.com?user=AxAvier7&theme=dark&hide_border=true&locale=es&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-[![AxAvier7's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxAvier7)](https://github.com/AxAvier7/github-readme-stats)
+<img src="https://streak-stats.demolab.com?user=AxAvier7&theme=dark&hide_border=true&locale=es&date_format=j%2Fn%5B%2FY%5D" alt="Racha de GitHub de AxAvier7" width="70%" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxAvier7)](https://github.com/AxAvier7/github-readme-stats)
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="165" align="center" src="https://github-stats-extended.vercel.app/api?username=AxAvier7&show_icons=true&theme=dark&hide_border=true&locale=es" alt="Estadísticas de GitHub de AxAvier7" />
+  <img height="165" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AxAvier7&layout=compact&theme=dark&hide_border=true&locale=es" alt="Lenguajes más usados por AxAvier7" />
+</a>
