@@ -8,9 +8,9 @@
 
 ## Estadísticas
 
-<img src="https://streak-stats.demolab.com?user=AxAvier7&theme=dark&hide_border=true&locale=es&date_format=j%2Fn%5B%2FY%5D&cb=0" alt="Racha de GitHub de AxAvier7" width="70%" />
+<img src="https://streak-stats.demolab.com?user=AxAvier7&theme=dark&hide_border=true&locale=es&date_format=j%2Fn%5B%2FY%5D&cb=1791314108" alt="Racha de GitHub de AxAvier7" width="70%" />
 
 <a href="https://github.com/stats-organization/github-stats-extended">
-  <img height="165" align="center" src="https://github-stats-extended.vercel.app/api?username=AxAvier7&show_icons=true&theme=dark&hide_border=true&locale=es&cb=0" alt="Estadísticas de GitHub de AxAvier7" />
-  <img height="165" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AxAvier7&layout=compact&theme=dark&hide_border=true&locale=es&cb=0" alt="Lenguajes más usados por AxAvier7" />
+  <img height="165" align="center" src="https://github-stats-extended.vercel.app/api?username=AxAvier7&show_icons=true&theme=dark&hide_border=true&locale=es&cb=1791314108" alt="Estadísticas de GitHub de AxAvier7" />
+  <img height="165" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AxAvier7&layout=compact&theme=dark&hide_border=true&locale=es&cb=1791314108" alt="Lenguajes más usados por AxAvier7" />
 </a>
