@@ -8,7 +8,7 @@
 
 ## Estadísticas
 
-<img src="https://streak-stats.demolab.com?user=AxAvier7&theme=dark&hide_border=true&locale=es&date_format=j%2Fn%5B%2FY%5D&cb=1791583121" alt="Racha de GitHub de AxAvier7" width="70%" />
+<img src="https://streak-stats.demolab.com?user=AxAvier7&theme=dark&hide_border=true&locale=es&date_format=j%2Fn%5B%2FY%5D&cb=1791601855" alt="Racha de GitHub de AxAvier7" width="70%" />
 
 <a href="https://github.com/stats-organization/github-stats-extended">
   <img height="165" align="center" src="./profile/stats.svg" alt="Estadísticas de GitHub de AxAvier7" />
