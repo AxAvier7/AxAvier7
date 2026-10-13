@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Estad&#237;sticas de GitHub de Adri&#225;n Xavier, Rank: C+</title>
-        <desc id="descId">Estrellas totales: 5, Commits totales  (El a&#241;o pasado) : 71, PRs totales: 3, Issues totales: 35, Contribuciones en (el a&#241;o pasado): 3</desc>
+        <title id="titleId">Estad&#237;sticas de GitHub de Adri&#225;n Xavier, Rank: C</title>
+        <desc id="descId">Estrellas totales: 6, Commits totales  (El a&#241;o pasado) : 76, PRs totales: 3, Issues totales: 2, Contribuciones en (el a&#241;o pasado): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 213.67800471533835;
+        stroke-dashoffset: 222.84961888261722;
       }
     }
   
@@ -150,7 +150,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          C+
+          C
         </text>
       
         </g>
@@ -169,7 +169,7 @@
         x="274.01"
         y="12.5"
         data-testid="stars"
-      >5</text>
+      >6</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -184,7 +184,7 @@
         x="274.01"
         y="12.5"
         data-testid="commits"
-      >71</text>
+      >76</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="274.01"
         y="12.5"
         data-testid="issues"
-      >35</text>
+      >2</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
